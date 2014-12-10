@@ -1,0 +1,10 @@
+#current-group {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.choose-group {
+	float: left;
+	margin-right: 10px;
+}
